@@ -1,0 +1,41 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Quiz de la Révolution",
+  "selectTheme": "Choisissez un thème",
+  "startQuiz": "Commencer le Quiz",
+  "historyTheme": "Histoire et Fondements",
+  "economyTheme": "Souveraineté Économique",
+  "valuesTheme": "Valeurs et Citoyenneté",
+  "score": "Votre score",
+  "seeCorrection": "Voir la correction détaillée",
+
+  "startAdventure": "COMMENCER L'AVENTURE",
+  "versionOffline": "VERSION OFFLINE",
+
+  "resultTitle": "Résultat",
+  "bestScore": "Meilleur score",
+  "share": "Partager",
+  "retry": "Rejouer",
+  "backToLevels": "Retour aux niveaux",
+  "next": "Suivant",
+  "finish": "Terminer",
+  "explanation": "Explication",
+  "didYouKnow": "Saviez-vous ?"
+
+  ,
+  "themeSelectorTitle": "SÉLECTIONNER UN THÈME",
+  "questions": "Questions",
+  "levelLockedMessage": "Terminez le niveau précédent pour débloquer celui-ci !",
+  "addQuestionTitle": "Ajouter une question",
+  "save": "Enregistrer",
+  "required": "Obligatoire",
+  "correctAnswer": "Bonne réponse:",
+  "option": "Option",
+  "questionLabel": "Question (FR)",
+  "manageQuestionsPrefix": "Gérer les questions",
+  "idLabel": "ID",
+  "tagsLabel": "Tags",
+  "sourceLabel": "Source",
+  "tagsHint": "Tags (séparés par , )",
+  "levelNumber": "Numéro de niveau"
+}

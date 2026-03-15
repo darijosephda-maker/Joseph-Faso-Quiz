@@ -1,0 +1,59 @@
+name: mon_app_quiz
+description: DA FASO QUIZ — Application de quiz sur le Burkina Faso et la RPP
+publish_to: 'none'
+version: 4.0.0+4
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # État et navigation
+  flutter_riverpod: ^2.5.1
+
+  # UI & Fonts
+  google_fonts: ^6.2.1
+  lottie: ^3.1.2
+
+  # Persistance locale
+  shared_preferences: ^2.3.2
+
+  # Utilitaires
+  uuid: ^4.4.0
+  share_plus: ^10.0.2
+
+  # ── VOIX ────────────────────────────────────────────────────────────
+  # Text-to-Speech (lecture à voix haute)
+  flutter_tts: ^4.2.0
+
+  # Speech-to-Text (reconnaissance vocale)
+  speech_to_text: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1 
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/animations/
+    - assets/icon/
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/appicon.png"
+  # Optionnel pour Android (icônes adaptatives)
+  adaptive_icon_background: "#FFFFFF" 
+  adaptive_icon_foreground: "assets/icon/appicon.png"
+
