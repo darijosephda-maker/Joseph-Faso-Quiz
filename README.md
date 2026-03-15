@@ -5,7 +5,7 @@ et renforcer les connaissances sur les idéaux, valeurs et principes
 de la Révolution Progressiste Populaire du Burkina Faso.
 
 ## ✨ Fonctionnalités
-- 6 thèmes : Histoire, Économie, Citoyenneté, Symboles, Santé, Géographie
+- 10 thèmes : Histoire, Économie, Citoyenneté, Symboles, Santé, Géographie, Culture, Technologie, Actualité, Sport.
 - Minuterie de 30 secondes par question
 - Synthèse vocale (TTS) et reconnaissance vocale (STT)
 - Bilingue Français / Anglais
